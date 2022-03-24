@@ -21,3 +21,16 @@
   white-space: nowrap!important;
   border: 0!important;
 }
+
+a {
+  transition: all .15s ease;
+}
+
+a:hover {
+  opacity: 0.75;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
