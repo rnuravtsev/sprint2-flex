@@ -1,4 +1,7 @@
+@import "__section-subtitle/techniques__section-subtitle.css";
+
 .techniques {
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
 }
