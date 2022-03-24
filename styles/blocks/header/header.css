@@ -13,4 +13,5 @@
   flex-direction: column;
   justify-content: center;
   background-color: var(--gray-light);
+  overflow: hidden;
 }
