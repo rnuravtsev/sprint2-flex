@@ -1,9 +1,3 @@
-@import "_theme/table_theme_dark.css";
-@import "__cell/table__cell.css";
-@import "__cell/_theme/table__cell_theme_dark.css";
-@import "__heading/table__heading.css";
-@import "__text/table__text.css";
-
 .table {
   position: relative;
   margin-left: auto;

@@ -1,6 +1,9 @@
 @import "normalize.css";
 @import "common/common.css";
-@import "blocks/table/table.css";
+@import "blocks/visually-hidden/visually-hidden.css";
+@import "blocks/link/link.css";
+@import "blocks/img/img.css";
+@import "blocks/table/imports.css";
 @import "blocks/two-columns/two-columns.css";
 @import "blocks/page/page.css";
 @import "blocks/header/header.css";

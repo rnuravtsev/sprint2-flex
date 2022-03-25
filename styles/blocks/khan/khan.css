@@ -9,5 +9,6 @@
 @import "__buy-link/khan__buy-link.css";
 
 .khan {
+  padding-top: 105px;
   background-color: var(--gray-light);
 }
