@@ -1,4 +1,6 @@
 @import "__triangle/kaufman__triangle.css";
+@import "__section-title/kaufman__section-title.css";
+@import "__section-subtitle/kaufman__section-subtitle.css";
 
 .kaufman {
   position: relative;

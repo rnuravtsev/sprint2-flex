@@ -5,5 +5,5 @@
   height: 568px;
   width: 568px;
   background-color: var(--primary);
-  z-index: 1;
+  z-index: 10;
 }
