@@ -1,7 +1,0 @@
-@import "table.css";
-@import "_theme/table_theme_dark.css";
-@import "_gap/table_gap_l.css";
-@import "__cell/table__cell.css";
-@import "__cell/_theme/table__cell_theme_dark.css";
-@import "__heading/table__heading.css";
-@import "__text/table__text.css";

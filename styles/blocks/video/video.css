@@ -1,3 +1,9 @@
+@import "__iframes/video__iframes.css";
+@import "__iframe/video__iframe.css";
+
 .video {
-  margin-bottom: -60px;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

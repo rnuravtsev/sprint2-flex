@@ -1,7 +1,15 @@
+@import "__table/kaufman__table.css";
+@import "__triangle/kaufman__triangle.css";
+@import "__section-title/kaufman__section-title.css";
+@import "__section-subtitle/kaufman__section-subtitle.css";
+
 .kaufman {
   position: relative;
   padding-top: 90px;
   padding-bottom: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   overflow: hidden;
   background-color: var(--gray-dark);
 }

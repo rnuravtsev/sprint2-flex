@@ -1,7 +1,6 @@
 @import "_type/footer__column-link_type_with-icon.css";
 
 .footer__column-link {
-  margin-bottom: 10px;
   display: flex;
   align-items: center;
   column-gap: 10px;
