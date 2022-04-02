@@ -1,0 +1,12 @@
+@import "_social/footer__icon_social_facebook.css";
+@import "_social/footer__icon_social_vk.css";
+@import "_social/footer__icon_social_instagram.css";
+
+.footer__icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

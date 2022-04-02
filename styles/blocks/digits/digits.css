@@ -1,0 +1,9 @@
+@import "__section-subtitle/digits__section-subtitle.css";
+
+.digits {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
